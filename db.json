@@ -1,0 +1,95 @@
+{
+  "team":[
+    {
+      "id":1,
+      "name":"Nayram Mensah",
+      "gender":"male",
+      "email":"nayram@forhey.com",
+      "phoneNumber":"0277073834"
+    },
+    {
+      "id":2,
+      "name":"Kelldick Bakorkor",
+      "gender":"male",
+      "email":"kell@forhey.com",
+      "phoneNumber":"0277073834"
+    },
+    {
+      "id":3,
+      "name":"Nana Akua Boatemaa",
+      "gender":"female",
+      "email":"akua@forhey.com",
+      "phoneNumber":"0277073834"
+    },
+    {
+      "id":4,
+      "name":"Christy Bakorko",
+      "gender":"female",
+      "email":"christy@forhey.com",
+      "phoneNumber":"0277073834"
+    },
+    {
+      "id":5,
+      "name":"Sam Abusah",
+      "gender":"male",
+      "email":"sam@forhey.com",
+      "phoneNumber":"0277073834"
+    }
+  ],
+  "clients":[
+    {
+      "id":1,
+      "name":"Cassandra Sarfo",
+      "gender":"female",
+      "owner":1,
+      "email":"cassandra@tressapp.com",
+      "phoneNumber":"0277073834",
+      "address":"East Legon"
+    },
+    {
+      "id":2,
+      "name":"Steven Asamoah",
+      "gender":"male",
+      "owner":1,
+      "email":"steven@synccomerce.com",
+      "phoneNumber":"0277073834",
+      "address":"Madina"
+    },
+    {
+      "id":3,
+      "name":"Cosman Agbitor",
+      "gender":"male",
+      "owner":2,
+      "email":"cosman@synccomerce.com",
+      "phoneNumber":"0277073834",
+      "address":"Airport Residential Area"
+    },
+    {
+      "id":4,
+      "name":"Selma",
+      "gender":"female",
+      "owner":3,
+      "email":"selma@synccomerce.com",
+      "phoneNumber":"0277073834",
+      "address":"East Legon"
+    },
+    {
+      "id":5,
+      "name":"Kennedy",
+      "gender":"male",
+      "owner":4,
+      "email":"ken@transgov.com",
+      "phoneNumber":"0277073834",
+      "address":"Dzorwulu"
+    },
+    {
+      "id":6,
+      "name":"Papa Yaw",
+      "gender":"male",
+      "owner":4,
+      "email":"ken@transgov.com",
+      "phoneNumber":"0277073834",
+      "address":"Ridge"
+    }
+  ]
+}
